@@ -1,5 +1,5 @@
 {
- "name": "TeleBot - UserBot",
+ "name": "Arjvps-TheUserBot",
  "description": "An advanced Telethon Userbot, from @TeleBotSupport",
  "logo": "https://telegra.ph/file/0b1d5cb8deeec7a506154.jpg",
  "keywords": [
@@ -9,7 +9,7 @@
   "modular",
   "productivity"
  ],
- "repository": "https://github.com/xditya/TeleBot/",
+ "repository": "https://github.com/Akshat7678/Arjvps/",
  "website": "https://xditya.gitbook.io/telebot/",
  "success_url": "https://t.me/TeleBotHelp/13",
  "stack": "container",
