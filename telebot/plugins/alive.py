@@ -72,15 +72,15 @@ async def amireallyalive(alive):
         tele += (
             f"{telemoji} **Telethon version**: `1.17`\n{telemoji} **Python**: `3.8.3`\n"
         )
-        tele += f"{telemoji} **TeleBot Version**: `{telever}`\n"
-        tele += f"{telemoji} **More Info**: @TeleBotSupport\n"
+        tele += f"{telemoji} **Arjvps Version**: `{telever}`\n"
+        tele += f"{telemoji} **More Info**: @ArjvpsUserBot_SupportChannel\n"
         tele += f"{telemoji} **Sudo** : `{sudo}`\n"
-        tele += f"{telemoji} **TeleBot Uptime**: `{uptime}`\n"
+        tele += f"{telemoji} **Arjvps Uptime**: `{uptime}`\n"
         tele += f"{telemoji} **Database Status**: `All OK 👌!`\n"
         tele += (
             f"{telemoji} **My pro owner** : [{DEFAULTUSER}](tg://user?id={myid})\n\n"
         )
-        tele += "    [✨ GitHub Repository ✨](https://github.com/xditya/TeleBot)"
+        tele += "    [✨ GitHub Repository ✨](https://github.com/Akshat7678/Arjvps)"
         await alive.get_chat()
         await alive.delete()
         """ For .alive command, check if the bot is running.  """
@@ -101,13 +101,13 @@ async def amireallyalive(alive):
             f"**Welcome To TeleBot **\n\n"
             f"`{CUSTOM_ALIVE}`\n\n"
             f"{telemoji} **Telethon version**: `1.17`\n{telemoji} **Python**: `3.8.3`\n"
-            f"{telemoji} **TeleBot Version**: `{telever}`\n"
-            f"{telemoji} **More Info**: @TeleBotSupport\n"
+            f"{telemoji} **Arjvps Version**: `{telever}`\n"
+            f"{telemoji} **More Info**: @ArjvpsUserBot_SupportChannel\n"
             f"{telemoji} **Sudo** : `{sudo}`\n"
-            f"{telemoji} **TeleBot Uptime**: `{uptime}`\n"
+            f"{telemoji} **Arjvps Uptime**: `{uptime}`\n"
             f"{telemoji} **Database Status**: `All OK 👌!`\n"
             f"{telemoji} **My pro owner** : [{DEFAULTUSER}](tg://user?id={myid})\n\n"
-            "    [✨ GitHub Repository ✨](https://github.com/xditya/TeleBot)",
+            "    [✨ GitHub Repository ✨](https://github.com/Akshat7678/Arjvps)",
             link_preview=False,
         )
         await borg.send_file(alive.chat_id, file=sticker)
