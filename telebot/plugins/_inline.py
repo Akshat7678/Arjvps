@@ -1,4 +1,4 @@
-#    TeleBot - UserBot
+#    Telegram - UserBot
 #    Copyright (C) 2020 TeleBot
 
 #    This program is free software: you can redistribute it and/or modify
